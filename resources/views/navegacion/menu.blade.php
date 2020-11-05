@@ -13,6 +13,15 @@
             <li class="nav-item">
                 <a class="nav-link" href="/sumar">Sumar</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/restar">Restar</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/dividir">Divide</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/multiplicar">Multiplicar</a>
+            </li>
         </ul>
     </div>
 </nav>
